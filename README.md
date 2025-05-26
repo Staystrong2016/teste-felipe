@@ -38,7 +38,7 @@ Sua tarefa é implementar as partes faltantes dos arquivos `main.js`, `inventory
      - Em `payment.js`, implemente a seleção da processadora com base na menor taxa e disponibilidade.
 
 2. **Implemente as funções**:
-   - Siga as especificações de entrada e saída descritas nos comentários e na seção "Formato Esperado" (abaixo).
+   - Siga as especificações de entrada e saída descritas nos comentários.
    - Garanta que as funções tratem casos de erro (ex.: estoque insuficiente, processadora indisponível, quantidade negativa).
 
 3. **Teste frequentemente**:
